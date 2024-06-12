@@ -1,0 +1,17 @@
+
+£
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­úÛÿÿÿÿÿ8òóä‰ı1
+
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê‘—í8ôóä‰ı1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(úÃß‡ÿÿÿÿÿ8úóä‰ı1
+L
+java:S1128"0Remove this unused import 'cn.hutool.json.JSON'.(ÿ!8şóä‰ı1
+X
+java:S1128"6Remove this unused import 'cn.hutool.json.JSONObject'.(¨ôÛˆùÿÿÿÿ8şóä‰ı1
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8şóä‰ı1
+_
+java:S1128	"=Remove this unused import 'javax.websocket.server.PathParam'.(ÊÊş†ûÿÿÿÿ8ÿóä‰ı1
+e
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8ÿóä‰ı1

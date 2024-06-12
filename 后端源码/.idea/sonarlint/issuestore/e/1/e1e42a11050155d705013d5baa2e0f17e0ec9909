@@ -1,0 +1,26 @@
+
+Q
+java:S3740$"/Provide the parametrized type for this generic.(ß©Üşÿÿÿÿ8¯Ö½§û1
+s
+java:S1488?"]Immediately return this expression instead of assigning it to the temporary variable "datas".(²Õâ‘
+L
+java:S1128"0Remove this unused import 'cn.hutool.json.JSON'.(ÿ!8ï×½§û1
+T
+java:S1128
+"2Remove this unused import 'com.common.utils.Func'.(˜©­­ùÿÿÿÿ8ó×½§û1
+[
+java:S1128"9Remove this unused import 'com.sun.scenario.effect.Crop'.(£Ş¬¸üÿÿÿÿ8÷×½§û1
+R
+java:S1128"0Remove this unused import 'groovy.lang.Binding'.(ÿ‰ªÅúÿÿÿÿ8û×½§û1
+]
+java:S1128";Remove this unused import 'groovy.util.GroovyScriptEngine'.(ÔÆúÿÿÿÿ8ı×½§û1
+W
+java:S1128":Remove this unused import 'groovy.util.ResourceException'.(äÊã´8ş×½§û1
+U
+java:S1128"8Remove this unused import 'groovy.util.ScriptException'.(º‰€’8ˆØ½§û1
+R
+java:S1128"5Remove this unused import 'org.jsoup.nodes.Document'.(ô¯É8ŠØ½§û1
+V
+java:S1128"4Remove this unused import 'org.jsoup.nodes.Element'.(ıƒ‘öşÿÿÿÿ8‹Ø½§û1
+S
+java:S1128"6Remove this unused import 'org.jsoup.select.Elements'.(ëÂè8ŒØ½§û1
